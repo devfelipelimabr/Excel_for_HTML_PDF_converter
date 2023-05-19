@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de README.md para o seu repositório de um aplicativo que converte CSV em HTML e PDF:
-
 ```markdown
 # CSV to HTML and PDF Converter
 
