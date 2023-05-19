@@ -59,9 +59,3 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 ```
-
-Certifique-se de substituir as seções `seu-usuario`, `nome-do-repositorio` e `nome-do-arquivo.csv` pelas informações relevantes do seu projeto.
-
-Lembre-se de adicionar a licença correta no arquivo `LICENSE` e personalizar o conteúdo conforme necessário.
-
-Espero que isso ajude a criar um README.md para o seu repositório.
