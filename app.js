@@ -1,10 +1,13 @@
-const Reader = require("./Reader");
+const Reader = require("./class/Reader");
+const Processor = require("./class/Processor")
 
 let leitor = new Reader();
 
 async function main() {
   let data = await leitor.Read("./users.csv");
-  console.log(data);
+  let processedData = Processor.Process(data)
+  console.log(processedData)
 }
 
 main();
+
