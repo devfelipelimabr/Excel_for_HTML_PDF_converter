@@ -1,0 +1,14 @@
+{
+  "name": "excel_for_html_pdf_converter",
+  "version": "1.0.0",
+  "description": "Conversor de CSV para HTML e PDF",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Lima",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0"
+  }
+}
