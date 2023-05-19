@@ -55,7 +55,7 @@ module.exports = CSVGenerator;
     "Manaus",
   ];
   const genders = ["Masculino", "Feminino"];
-  const educationLevels = ["Ensino Médio", "Ensino Superior"];
+  const educationLevels = ["Ensino Fundamental","Ensino Médio", "Ensino Superior"];
 
   for (let i = 0; i < 10; i++) {
     const randomIndex = Math.floor(Math.random() * cities.length);
