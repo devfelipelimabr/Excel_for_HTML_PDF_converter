@@ -9,6 +9,7 @@
   "author": "Felipe Lima",
   "license": "ISC",
   "dependencies": {
-    "csv-writer": "^1.6.0"
+    "csv-writer": "^1.6.0",
+    "ejs": "^3.1.9"
   }
 }

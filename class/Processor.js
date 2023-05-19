@@ -2,9 +2,9 @@
 
 class Processor {
   static Process(data) {
-    let a = data.split("\r\n");
-    var rows = [];
-    a.forEach((row) => {
+    let rawRows = data.split("\r\n");
+    let rows = [];
+    rawRows.forEach((row) => {
       let arr = row.split(",");
       rows.push(arr);
     });
