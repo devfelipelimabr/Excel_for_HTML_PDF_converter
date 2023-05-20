@@ -3,9 +3,10 @@ const Writer = require("./class/Writer");
 const Processor = require("./class/Processor");
 const Table = require("./class/Table");
 const HtmlParser = require("./class/HtmlParser");
+const PDFWriter = require("./class/PDFWriter");
 
 const reader = new Reader();
-const writer = new Writer()
+const writer = new Writer();
 
 async function main() {
   const data = await reader.Read("./users.csv");
@@ -15,7 +16,8 @@ async function main() {
 
   let html = await HtmlParser.Parse(users);
 
-  writer.Write(`./htmlTables/${Date.now()}generatedHtmlTable.html`,html)
+  writer.Write(`./htmlTables/${Date.now()}generatedHtmlTable.html`, html);
+  PDFWriter.WritePDF(`./pdfTables/${Date.now()}generatedPDF.pdf`, html);
 }
 
 main();

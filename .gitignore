@@ -1,3 +1,4 @@
 node_modules
-dados.csv
-users.csv
+*.csv
+*.pdf
+*.html
