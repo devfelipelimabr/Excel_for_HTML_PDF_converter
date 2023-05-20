@@ -41,7 +41,7 @@ module.exports = CSVGenerator;
   // Cria uma instância do gerador CSV
   const csvGenerator = new CSVGenerator("dados.csv");
 
-  // Adiciona 10 linhas de dados aleatórios
+  // Adicionalinhas de dados aleatórios
   const cities = [
     "São Paulo",
     "Rio de Janeiro",
@@ -57,7 +57,7 @@ module.exports = CSVGenerator;
   const genders = ["Masculino", "Feminino"];
   const educationLevels = ["Ensino Fundamental","Ensino Médio", "Ensino Superior"];
 
-  for (let i = 0; i < 10; i++) {
+  for (let i = 0; i < 100; i++) {
     const randomIndex = Math.floor(Math.random() * cities.length);
     const randomGender = genders[Math.floor(Math.random() * genders.length)];
     const randomEducationLevel =

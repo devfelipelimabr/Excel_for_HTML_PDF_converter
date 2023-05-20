@@ -1,21 +1,101 @@
 Nome,Cidade,Sexo,Escolaridade
-Pessoa 1,Porto Alegre,Feminino,Ensino Superior
-Pessoa 2,Salvador,Feminino,Ensino Médio
-Pessoa 3,Salvador,Feminino,Ensino Médio
-Pessoa 4,Salvador,Masculino,Ensino Médio
-Pessoa 5,Recife,Feminino,Ensino Superior
-Pessoa 6,Rio de Janeiro,Feminino,Ensino Superior
-Pessoa 7,Salvador,Masculino,Ensino Médio
-Pessoa 8,Belo Horizonte,Masculino,Ensino Médio
-Pessoa 9,Salvador,Masculino,Ensino Superior
-Pessoa 10,Rio de Janeiro,Feminino,Ensino Superior
-Pessoa 11,Salvador,Masculino,Ensino Médio
-Pessoa 12,Fortaleza,Feminino,Ensino Fundamental
-Pessoa 13,Fortaleza,Feminino,Ensino Fundamental
-Pessoa 14,Manaus,Masculino,Ensino Fundamental
-Pessoa 15,Curitiba,Masculino,Ensino Superior
-Pessoa 16,Curitiba,Feminino,Ensino Médio
-Pessoa 17,São Paulo,Feminino,Ensino Fundamental
-Pessoa 18,São Paulo,Feminino,Ensino Fundamental
-Pessoa 19,Fortaleza,Masculino,Ensino Fundamental
-Pessoa 20,Fortaleza,Feminino,Ensino Médio
+Pessoa 1,Rio de Janeiro,Masculino,Ensino Superior
+Pessoa 2,São Paulo,Masculino,Ensino Médio
+Pessoa 3,São Paulo,Feminino,Ensino Fundamental
+Pessoa 4,Salvador,Feminino,Ensino Fundamental
+Pessoa 5,Curitiba,Feminino,Ensino Superior
+Pessoa 6,Rio de Janeiro,Feminino,Ensino Fundamental
+Pessoa 7,Belo Horizonte,Feminino,Ensino Fundamental
+Pessoa 8,Belo Horizonte,Feminino,Ensino Superior
+Pessoa 9,Belo Horizonte,Feminino,Ensino Superior
+Pessoa 10,Porto Alegre,Masculino,Ensino Superior
+Pessoa 11,Brasília,Feminino,Ensino Superior
+Pessoa 12,Rio de Janeiro,Feminino,Ensino Fundamental
+Pessoa 13,Rio de Janeiro,Feminino,Ensino Fundamental
+Pessoa 14,Curitiba,Feminino,Ensino Médio
+Pessoa 15,Salvador,Feminino,Ensino Superior
+Pessoa 16,Manaus,Feminino,Ensino Fundamental
+Pessoa 17,São Paulo,Feminino,Ensino Superior
+Pessoa 18,Brasília,Masculino,Ensino Fundamental
+Pessoa 19,Fortaleza,Feminino,Ensino Fundamental
+Pessoa 20,Porto Alegre,Masculino,Ensino Médio
+Pessoa 21,Brasília,Feminino,Ensino Superior
+Pessoa 22,Rio de Janeiro,Masculino,Ensino Médio
+Pessoa 23,Recife,Feminino,Ensino Fundamental
+Pessoa 24,Rio de Janeiro,Masculino,Ensino Fundamental
+Pessoa 25,Fortaleza,Feminino,Ensino Fundamental
+Pessoa 26,Belo Horizonte,Feminino,Ensino Fundamental
+Pessoa 27,Salvador,Feminino,Ensino Médio
+Pessoa 28,Rio de Janeiro,Masculino,Ensino Superior
+Pessoa 29,Recife,Masculino,Ensino Fundamental
+Pessoa 30,Recife,Masculino,Ensino Fundamental
+Pessoa 31,São Paulo,Masculino,Ensino Fundamental
+Pessoa 32,Brasília,Feminino,Ensino Médio
+Pessoa 33,Recife,Feminino,Ensino Médio
+Pessoa 34,Salvador,Feminino,Ensino Médio
+Pessoa 35,Fortaleza,Masculino,Ensino Superior
+Pessoa 36,Belo Horizonte,Feminino,Ensino Médio
+Pessoa 37,Fortaleza,Feminino,Ensino Médio
+Pessoa 38,Curitiba,Masculino,Ensino Superior
+Pessoa 39,Brasília,Masculino,Ensino Fundamental
+Pessoa 40,Belo Horizonte,Masculino,Ensino Fundamental
+Pessoa 41,Manaus,Masculino,Ensino Médio
+Pessoa 42,São Paulo,Masculino,Ensino Médio
+Pessoa 43,Rio de Janeiro,Feminino,Ensino Fundamental
+Pessoa 44,Porto Alegre,Feminino,Ensino Fundamental
+Pessoa 45,São Paulo,Masculino,Ensino Médio
+Pessoa 46,Manaus,Feminino,Ensino Médio
+Pessoa 47,Porto Alegre,Feminino,Ensino Fundamental
+Pessoa 48,Rio de Janeiro,Feminino,Ensino Fundamental
+Pessoa 49,Porto Alegre,Feminino,Ensino Médio
+Pessoa 50,Porto Alegre,Feminino,Ensino Superior
+Pessoa 51,Curitiba,Masculino,Ensino Fundamental
+Pessoa 52,Fortaleza,Feminino,Ensino Superior
+Pessoa 53,Recife,Masculino,Ensino Superior
+Pessoa 54,Salvador,Feminino,Ensino Superior
+Pessoa 55,Recife,Masculino,Ensino Médio
+Pessoa 56,Brasília,Feminino,Ensino Superior
+Pessoa 57,Curitiba,Feminino,Ensino Fundamental
+Pessoa 58,Belo Horizonte,Feminino,Ensino Superior
+Pessoa 59,Salvador,Masculino,Ensino Superior
+Pessoa 60,Brasília,Masculino,Ensino Médio
+Pessoa 61,Salvador,Masculino,Ensino Fundamental
+Pessoa 62,Recife,Feminino,Ensino Fundamental
+Pessoa 63,Fortaleza,Feminino,Ensino Médio
+Pessoa 64,Porto Alegre,Masculino,Ensino Fundamental
+Pessoa 65,Porto Alegre,Masculino,Ensino Médio
+Pessoa 66,Curitiba,Feminino,Ensino Fundamental
+Pessoa 67,Rio de Janeiro,Masculino,Ensino Médio
+Pessoa 68,Rio de Janeiro,Feminino,Ensino Superior
+Pessoa 69,Belo Horizonte,Feminino,Ensino Superior
+Pessoa 70,Recife,Masculino,Ensino Superior
+Pessoa 71,Salvador,Masculino,Ensino Fundamental
+Pessoa 72,Salvador,Masculino,Ensino Superior
+Pessoa 73,Brasília,Masculino,Ensino Superior
+Pessoa 74,Recife,Feminino,Ensino Superior
+Pessoa 75,Recife,Feminino,Ensino Superior
+Pessoa 76,Porto Alegre,Feminino,Ensino Fundamental
+Pessoa 77,Recife,Feminino,Ensino Fundamental
+Pessoa 78,Manaus,Feminino,Ensino Superior
+Pessoa 79,Belo Horizonte,Masculino,Ensino Fundamental
+Pessoa 80,Salvador,Masculino,Ensino Médio
+Pessoa 81,Recife,Feminino,Ensino Superior
+Pessoa 82,Manaus,Feminino,Ensino Fundamental
+Pessoa 83,Manaus,Masculino,Ensino Superior
+Pessoa 84,Manaus,Masculino,Ensino Médio
+Pessoa 85,São Paulo,Feminino,Ensino Médio
+Pessoa 86,Curitiba,Feminino,Ensino Superior
+Pessoa 87,Salvador,Masculino,Ensino Superior
+Pessoa 88,Belo Horizonte,Feminino,Ensino Superior
+Pessoa 89,Salvador,Masculino,Ensino Superior
+Pessoa 90,Curitiba,Masculino,Ensino Fundamental
+Pessoa 91,Manaus,Masculino,Ensino Médio
+Pessoa 92,Manaus,Masculino,Ensino Superior
+Pessoa 93,Brasília,Feminino,Ensino Médio
+Pessoa 94,Brasília,Feminino,Ensino Fundamental
+Pessoa 95,Salvador,Feminino,Ensino Fundamental
+Pessoa 96,Salvador,Feminino,Ensino Médio
+Pessoa 97,Brasília,Feminino,Ensino Médio
+Pessoa 98,Brasília,Masculino,Ensino Fundamental
+Pessoa 99,Brasília,Feminino,Ensino Fundamental
+Pessoa 100,Belo Horizonte,Feminino,Ensino Médio
