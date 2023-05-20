@@ -34,26 +34,25 @@ npm install
 
 ## Uso
 
-1. Coloque seus arquivos CSV no diretório `input`.
+1. Coloque seus arquivos CSV no arquivo `user.csv` ou gere um CSV radomico com o modulo CSVGenarator.
 2. Execute o seguinte comando para converter o arquivo CSV em HTML:
 
 ```bash
-npm run convert-html nome-do-arquivo.csv
+node app.js
 ```
 
-3. O arquivo HTML convertido estará disponível no diretório `output/html`.
+3. O arquivo HTML convertido estará disponível no diretório `/htmlTables`.
 
-4. Execute o seguinte comando para converter o arquivo CSV em PDF:
-
-```bash
-npm run convert-pdf nome-do-arquivo.csv
-```
-
-5. O arquivo PDF convertido estará disponível no diretório `output/pdf`.
+4. O arquivo PDF convertido estará disponível no diretório `/pdfTables`.
 
 ## Contribuição
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Contato
+
+[![Linkedin](https://icons.iconarchive.com/icons/martz90/circle/48/linkedin-icon.png)](https://www.linkedin.com/in/devfelipelima/)
+[![Whattsapp](https://icons.iconarchive.com/icons/martz90/circle/48/whatsapp-icon.png)](https://wa.link/dp0vuq)
 
 ## Licença
 
