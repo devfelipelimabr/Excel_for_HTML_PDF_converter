@@ -15,7 +15,7 @@ async function main() {
 
   let html = await HtmlParser.Parse(users);
 
-  writer.Write("generatedHtmlTable.html",html)
+  writer.Write(`./htmlTables/${Date.now()}generatedHtmlTable.html`,html)
 }
 
 main();
