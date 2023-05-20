@@ -6,20 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link
       rel="shortcut icon"
-      href="./public/images/favico.png"
+      href="../public/images/favico.png"
       type="image/x-icon"
     />
     <title>CSV2 DOC</title>
     <!--Local CSS-->
-    <link rel="stylesheet" href="./public/CSS/stylesheet.css" />
+    <link rel="stylesheet" href="../public/CSS/stylesheet.css" />
   </head>
   <body>
     <header>
-      <nav class="navbar navbar-expand-lg">
+      <nav class="navbar">
         <a class="navbar-brand" href="#">
           <img
             id="nav-logo"
-            src="./public/images/favico.png"
+            src="../public/images/favico.png"
             alt="Logo"
             width="60"
             height="60"
@@ -29,8 +29,8 @@
     </header>
 
     <div class="container">
-      <table class="table table-striped table-dark">
-        <thead class="thead-dark">
+      <table>
+        <thead>
           <% header.forEach(col=>{ %>
 
           <th scope="col"><%= col %></th>
